@@ -1,0 +1,15 @@
+{
+        "name": "magentoese/theme-frontend-custom",
+        "type": "magento2-theme",
+        "require": {
+                "magento/theme-frontend-blank": "*",
+                "magento/theme-frontend-luma": "*",
+                "magento/framework": "*"
+        },
+        "version": "0.1.1",
+        "autoload": {
+                "files": [
+                        "registration.php"
+                ]
+        }
+}

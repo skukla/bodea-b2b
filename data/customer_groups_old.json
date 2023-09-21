@@ -1,0 +1,20 @@
+{
+  "data": {
+    "customerGroups": {
+      "items": [
+        {
+          "name": "US Price List",
+          "tax_class": "Retail Customer"
+        },
+        {
+          "name": "Canadian Price List",
+          "tax_class": "Retail Customer"
+        },
+        {
+          "name": "International Price List",
+          "tax_class": "Retail Customer"
+        }
+      ]
+    }
+  }
+}
