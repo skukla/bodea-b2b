@@ -1,5 +1,5 @@
 {
-        "name": "magentoese/theme-frontend-custom",
+        "name": "kukla/theme-frontend-bodea",
         "type": "magento2-theme",
         "require": {
                 "magento/theme-frontend-blank": "*",
