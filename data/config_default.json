@@ -44,7 +44,7 @@
 		},
 		"design": {
 			"head": {
-				"includes": "<!-- START THEME CUSTOMIZER --><link  rel=\"stylesheet\" type=\"text/css\"  media=\"all\" href=\"http://bodea.com/media/ThemeCustomizer/KuklaBodeaTheme.css\" /><!-- END THEME CUSTOMIZER -->",
+				"includes": "<!-- START THEME CUSTOMIZER --><link  rel=\"stylesheet\" type=\"text/css\"  media=\"all\" href=\"/media/ThemeCustomizer/KuklaBodeaTheme.css\" /><!-- END THEME CUSTOMIZER -->",
 				"shortcut_icon": "favicon/favicon.png"
 			},
 			"header": {
